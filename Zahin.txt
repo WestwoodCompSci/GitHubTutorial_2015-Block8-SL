@@ -1,8 +1,12 @@
 Do you like sushi?
 <<<<<<< HEAD
+<<<<<<< HEAD
 Banana
 I like salmon, unagi, egg, shrimp, octupus, tuna, Banana is good to :P
 =======
 yes
+=======
+123
+>>>>>>> 6395e251d3803479e446e3baf5c4631954525f58
 
 >>>>>>> origin/master
