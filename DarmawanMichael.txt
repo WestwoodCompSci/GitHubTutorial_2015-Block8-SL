@@ -5,4 +5,8 @@ Which is correct?
 	D: None of the above
 	
 Correct Answer: 
+<<<<<<< HEAD
+	E: "Insanity is a form of insanity"
+=======
 Banana
+>>>>>>> origin/master
