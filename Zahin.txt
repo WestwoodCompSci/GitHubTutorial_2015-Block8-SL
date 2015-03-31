@@ -1,3 +1,8 @@
 Do you like sushi?
+<<<<<<< HEAD
 Banana
 I like salmon, unagi, egg, shrimp, octupus, tuna, Banana is good to :P
+=======
+yes
+
+>>>>>>> origin/master
