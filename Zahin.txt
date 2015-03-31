@@ -1,7 +1,7 @@
 Do you like sushi?
 <<<<<<< HEAD
 <<<<<<< HEAD
-Banana
+01100010 01100001 01101110 01100001 01101110 01100001
 I like salmon, unagi, egg, shrimp, octupus, tuna, Banana is good to :P
 =======
 yes
