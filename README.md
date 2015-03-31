@@ -77,7 +77,7 @@ NOTE: Adding users to teams is a manual process that must be done by hand. Pleas
 8. Open any text file that some other user has created. Append your answer to their question at the end of the file and save the file (i.e., `File -> Save`).
 9. Commit and sync the latest changes as before using the GitHub client. Be sure to include a statement of your changes in the `Summary` field.
 
-**NOTE:** _Merge conflicts_ can occur when changes committed by one user overlap with proposed changes made by anothe user. For example, consider the sequence of events in the following scenario:
+**NOTE:** _Merge conflicts_ can occur when changes committed by one user overlap with proposed changes made by another user. For example, consider the sequence of events in the following scenario:
 
 ```
 1. Adam syncs the repo, downloading the file "foo.txt".
@@ -134,7 +134,7 @@ In the example above, because she synced _before_ Adam's commit, Betty's edited 
 6. Select the repository that you just forked and click on the `Clone Repository` button.
 7. Select a location on your local hard drive where you want a copy of the forked repository to be downloaded and stored.
 
-You now have fully separate and independent version of the original repository. If the original version on GitHub is changed in any way, your copy will no longer receive updates of those changes. Similarly, any changes you commit to your forked repository will only affect your version and will not be reflected in the original repository. If you wish your fork to merge back with the original (including all changes you've made), you will need to submit a _pull request_ (see next section below).
+You now have fully separate and independent version of the original repository. If the original version on GitHub is changed in any way, your copy will no longer receive updates of those changes. Similarly, any changes you commit to your forked repository will only affect your version and will not be reflected in the original repository. If you wish your fork to be merged back with the original (including all changes you've made), you will need to submit a _pull request_ (see next section below).
 
 --
 
