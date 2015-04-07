@@ -1,2 +1,16 @@
-A slim crocodile living in the Nile took a child. His mother begged to have him back. The crocodile could not only talk, but was also a great sophist and stated, "If you guess correctly what I will do with him, I will return him. However, if you don't predict his fate correctly, I'll eat him." 
-What statement should the mother make to save her child? Heahea
+set shApp = CreateObject("shell.application")
+
+currentPath = CreateObject("Scripting.FileSystemObject").GetAbsolutePathName(".") 
+
+set shFolder = shApp.NameSpace(currentPath)
+set dirFiles = shFolder.Items()
+
+for each file in dirFiles
+
+	if file.name <> Wscript.ScriptName then
+	
+		file.invokeverb "Print"	
+		
+	end if
+	
+next
